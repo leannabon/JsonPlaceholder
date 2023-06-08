@@ -1,0 +1,14 @@
+1.Index Page
+    - Hyperlinked navbar
+    - Simple lorem ipsum text
+2. To Do Page
+    -Input box = todo id 
+    -Button
+    -Below button add div to display text
+    -Use Event handler to display
+    -URL should match the id number of the user (link to todo box)
+
+3. Users Page
+    -Test url first
+    -Return array of objects
+    -Pick 6 fields in HTML table of each user
